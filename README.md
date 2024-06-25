@@ -3,7 +3,12 @@
 - 🌱 I’m completed a Front end development course in Achievers IT academy
 - 💞️ I’m looking for jobs in Frontend development
 - I have 1 year of experience in the field of Frontend.
--
+
+
+-Things I code with
+HTML5 | CSS3 | Javascript | React JS | Redux | TAILWIND CSS | Bootstrap | Git 
+
+
   Company: Wipro Technologies Ltd, Bangalore  |   Role: Project Engineer – FRONTEND DEVELOPER   |  Period: October 2017 - November 2018
   
 Project details:INTERN PORTAL
