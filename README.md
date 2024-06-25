@@ -5,7 +5,8 @@
 - I have 1 year of experience in the field of Frontend.
 
 
--Things I code with
+-Things I code with.......
+
 HTML5 | CSS3 | Javascript | React JS | Redux | TAILWIND CSS | Bootstrap | Git 
 
 
