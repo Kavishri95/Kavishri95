@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavishri SampathKumar
 
-🎯 **Frontend Developer** | ⚛️ React.js | 🌐 Next.js | 🎨 Tailwind CSS  
+🎯 **Frontend Developer** | ⚛️ React.js | 🌐 Next.js | Javascript | 🎨 Tailwind CSS  | Swagger UI | 
 📍 Bangalore, India | 💼 2+ years of experience | 💡 Passionate about clean UI and performance
 
 ---
