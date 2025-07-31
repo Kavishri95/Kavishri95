@@ -31,7 +31,7 @@ I'm constantly learning and passionate about:
 
 ### 🏢 SSE-Software Development, Chennai (Mar 2024 – Present)  
 **Role:** Frontend Developer  
-- Built a scalable real estate web app using **Next.js + TypeScript**
+- Built a scalable real estate web app using **Next.js + TypeScript** (www.realestatedigital.in)
 - Developed role-based dashboards, invoice modules, and document workflows
 - Implemented real-time form validations and dynamic data views
 - Worked on project creation, booking flows, and profile update modules
